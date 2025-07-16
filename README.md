@@ -18,7 +18,3 @@ Ce dépôt me sert de **carnet de bord** de mes progrès en programmation. Il co
 - Ce dépôt est en constante évolution.
 - Le code peut contenir des erreurs ou être naïf : il reflète un **apprentissage en cours**.
 - Si tu as des suggestions ou veux discuter de code, n’hésite pas à ouvrir une _issue_ ou un _pull request_ !
-
-## 📅 Dernière mise à jour
-
-`$(date +"%d/%m/%Y")` ← Tu peux mettre ici la date manuellement si tu veux.
